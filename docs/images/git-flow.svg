@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+  <rect width="900" height="250" rx="20" fill="#17181a"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,sans-serif" text-anchor="middle">
+    <rect x="45" y="92" width="170" height="70" rx="12" fill="#303237"/><text x="130" y="122" fill="#fff" font-size="16" font-weight="700">main</text><text x="130" y="145" fill="#aeb2ba" font-size="12">stable source</text>
+    <rect x="365" y="92" width="170" height="70" rx="12" fill="#303237"/><text x="450" y="122" fill="#fff" font-size="16" font-weight="700">feature branch</text><text x="450" y="145" fill="#aeb2ba" font-size="12">test changes</text>
+    <rect x="685" y="92" width="170" height="70" rx="12" fill="#303237"/><text x="770" y="122" fill="#fff" font-size="16" font-weight="700">pull request</text><text x="770" y="145" fill="#aeb2ba" font-size="12">review then merge</text>
+  </g>
+  <path d="M215 127h145M535 127h145" stroke="#68a9ff" stroke-width="4"/><path d="M350 115l15 12-15 12M670 115l15 12-15 12" fill="none" stroke="#68a9ff" stroke-width="4"/>
+</svg>

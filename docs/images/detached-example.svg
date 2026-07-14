@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+  <rect width="760" height="420" rx="28" fill="#eef0f3"/>
+  <rect x="195" y="55" width="370" height="300" rx="18" fill="#ffffff" fill-opacity=".68" stroke="#b7bcc5"/>
+  <rect x="195" y="55" width="370" height="34" rx="18" fill="#f7f8fa" fill-opacity=".75"/>
+  <circle cx="218" cy="72" r="6" fill="#ff5f57"/><circle cx="238" cy="72" r="6" fill="#febc2e"/><circle cx="258" cy="72" r="6" fill="#28c840"/>
+  <text x="280" y="78" fill="#545861" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="13" font-weight="600">AI Usage · Detached</text>
+  <text x="225" y="126" fill="#1d1e20" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="20" font-weight="700">AI Usage</text>
+  <rect x="225" y="146" width="310" height="64" rx="12" fill="#ffffff" fill-opacity=".55" stroke="#d5d8dd"/>
+  <text x="243" y="174" fill="#282a2e" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="15" font-weight="700">Claude</text><text x="490" y="174" fill="#282a2e" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="15" font-weight="700">2%</text>
+  <rect x="243" y="190" width="274" height="6" rx="3" fill="#d9dce1"/><rect x="243" y="190" width="28" height="6" rx="3" fill="#e77f3e"/>
+  <rect x="225" y="224" width="310" height="64" rx="12" fill="#ffffff" fill-opacity=".55" stroke="#d5d8dd"/>
+  <text x="243" y="252" fill="#282a2e" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="15" font-weight="700">Codex</text><text x="490" y="252" fill="#282a2e" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="15" font-weight="700">23%</text>
+  <rect x="243" y="268" width="274" height="6" rx="3" fill="#d9dce1"/><rect x="243" y="268" width="63" height="6" rx="3" fill="#348fe0"/>
+  <text x="225" y="326" fill="#6c717b" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="12">Movable · optional always on top</text>
+</svg>

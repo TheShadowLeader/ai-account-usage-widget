@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+  <rect width="760" height="420" rx="28" fill="#17181a"/>
+  <rect x="260" y="18" width="240" height="28" rx="14" fill="#2b2d31"/>
+  <rect x="345" y="38" width="70" height="16" fill="#2b2d31"/>
+  <path d="M380 54l-18 20h36z" fill="#2b2d31"/>
+  <rect x="180" y="72" width="400" height="300" rx="20" fill="#303237" stroke="#777b84"/>
+  <text x="208" y="112" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="22" font-weight="700">AI Usage</text>
+  <text x="208" y="136" fill="#aeb2ba" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="13">Account-wide subscription limits</text>
+  <rect x="208" y="158" width="344" height="78" rx="12" fill="#3a3c42"/>
+  <text x="226" y="185" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="16" font-weight="700">Claude</text>
+  <text x="226" y="210" fill="#aeb2ba" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="13">Current window</text>
+  <rect x="226" y="218" width="300" height="7" rx="4" fill="#555861"/><rect x="226" y="218" width="62" height="7" rx="4" fill="#f28b42"/>
+  <rect x="208" y="248" width="344" height="78" rx="12" fill="#3a3c42"/>
+  <text x="226" y="275" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="16" font-weight="700">Codex</text>
+  <text x="226" y="300" fill="#aeb2ba" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="13">Weekly</text>
+  <rect x="226" y="308" width="300" height="7" rx="4" fill="#555861"/><rect x="226" y="308" width="105" height="7" rx="4" fill="#4ca3ff"/>
+  <text x="208" y="350" fill="#9da1aa" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="12">Popover anchored to the menu bar</text>
+</svg>
